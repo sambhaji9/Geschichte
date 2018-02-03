@@ -1,0 +1,14 @@
+button {
+    padding: 10px 20px;
+    text-align: right;
+    float: right;
+    margin-right: 10px;
+    border: 1px solid blue;
+    border-radius: 3px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+button:hover {
+    box-shadow: 1px 1px
+}
