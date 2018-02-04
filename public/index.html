@@ -8,18 +8,63 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <script src="./lib/jquery-3.2.1.min.js"></script>
+    <script src="./lib/popper.min.js"></script>
+    <script src="./lib/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./lib/bootstrap.min.css" type="text/css">
+
     <script src="./stasi.js"></script>
     <link rel="stylesheet" type="text/css" href="./stasi.css">
+    <link rel="stylesheet" type="text/css" href="./lib/css/fontawesome-all.css" </head>
 
-</head>
+    <body>
 
-<body>
+        <div class="top">
+            <div>
+                <button type="button" class="btn btn-outline-primary" id="addNewApp" data-toggle="modal" data-target="#addNewAppModal">
+                <i class="icon far fa-plus-square"></i>
+                Add New</button>
+                <button class="btn btn-outline-primary" id="save">
+                <i class="icon far fa-save"></i>Save</button>
+            </div>
+        </div>
 
-    <div>
-        <button id="addNewApp">ADD NEW APP</button>
-        <button id="save">SAVE</button>
-    </div>
+        <div class="container">
+            <div class="left"></div>
+            <div class="middle"></div>
+        </div>
 
-</body>
+        <!-- Modal -->
+        <div class="modal fade" id="addNewAppModal" tabindex="-1" role="dialog" aria-labelledby="addNewAppModal" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Add New App</h5>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group row">
+                            <label for="appName" class="col-sm-4 col-form-label">App Name *</label>
+                            <div class="col-sm-8">
+                                <input type="text" id="inputAppName" class="form-control">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group row">
+                            <label for="appName" class="col-sm-4 col-form-label">App Version *</label>
+                            <div class="col-sm-8">
+                                <input type="text" id="inputAppVersion" class="form-control">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary modal-button" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary modal-button" id="btnSaveApp">Save changes</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </body>
 
 </html>

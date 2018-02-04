@@ -1,14 +1,82 @@
-button {
-    padding: 10px 20px;
-    text-align: right;
-    float: right;
-    margin-right: 10px;
-    border: 1px solid blue;
-    border-radius: 3px;
-    font-size: 13px;
-    font-weight: 500;
+body {
+    overflow-x: hidden;
 }
 
-button:hover {
-    box-shadow: 1px 1px
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    position: relative;
+    z-index: 10;
+    height: 100px;
+    background: #f0f0f0;
+}
+
+.container {
+    display: flex;
+    overflow: hidden;
+    height: 100vh;
+    margin-top: -100px;
+    padding-top: 100px;
+    position: relative;
+    width: 100%;
+    backface-visibility: hidden;
+    will-change: overflow;
+}
+
+.left,
+.middle {
+    overflow: auto;
+    height: auto;
+    padding: .5rem;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: none;
+}
+
+.btn-outline-primary {
+    float: right;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 14px;
+    min-width: 100px;
+}
+
+.left::-webkit-scrollbar,
+.middle::-webkit-scrollbar {
+    display: none;
+}
+
+.left {
+    width: 12.5rem;
+    background-color: #e0e0e0;
+}
+
+.middle {
+    flex: 1;
+}
+
+.modal-button {
+    font-size: 14px;
+}
+
+label {
+    font-size: 14px;
+}
+
+input {
+    width: 100%;
+}
+
+.icon {
+    margin-right: 7px;
+}
+
+.container {
+    margin-left: 1px;
 }
