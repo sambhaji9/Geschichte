@@ -53,8 +53,9 @@ body {
 }
 
 .left {
-    width: 12.5rem;
-    background-color: #e0e0e0;
+    width: 300px;
+    margin-left: -15px;
+    border-right: 1px solid #e0e0e0;
 }
 
 .middle {

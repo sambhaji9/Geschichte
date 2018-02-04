@@ -34,7 +34,9 @@ function createFile(appDetails) {
         if (httpRequest.readyState === XMLHttpRequest.DONE) {
             if (httpRequest.status === 200) {
                 // reload the apps list here
-                console.log(httpRequest.responseText);
+                if (httpRequest.responseText) {
+                    console.log("Reloading the apps list here");
+                }
             }
         }
     };
