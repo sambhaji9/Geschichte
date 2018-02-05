@@ -15,24 +15,23 @@ app.get("/index.html", function(request, response) {
 });
 
 app.get("/create_file", function(request, response) {
-
-    var status = false;
     var file = fileSys.writeFile("./public/stasi_files/" + request.query.fileNumber + ".json", "[]", function(err) {
         if (err) {
             console.error("Error in creating file");
         } else {
-            // set the status as true
-            status = true;
             console.log(request.query.appName + ", " + request.query.appVersion + ", " + request.query.fileNumber + " created successfully");
 
-            // initialise an empty array
-            var appsArray = [];
             // register the app in index.json
-            appsArray = registerApp(request.query.appName, request.query.appVersion, request.query.fileNumber);
+            response.send(registerApp(request.query.appName, request.query.appVersion, request.query.fileNumber));
         }
     });
-    // send the status of the operation
-    response.send(status);
+});
+
+app.get("/get_apps_list", function(request, response) {
+    // read the index.json file
+    var array = fileSys.readFileSync("./public/stasi_files/index.json", "utf-8");
+    // return array
+    response.send(array);
 });
 
 var server = app.listen(9000, function() {
@@ -46,24 +45,24 @@ var server = app.listen(9000, function() {
  * @param {number} fileNumber 
  */
 function registerApp(appName, appVersion, fileNumber) {
-    var fileRead = fileSys.readFile("./public/stasi_files/index.json", "utf-8", function(err, data) {
-        if (err) {
-            console.error(err);
-        } else {
-            // parse the data and get it in an array
-            var indexArray = JSON.parse(data);
+    // Synchronously read the index.json file
+    var fileRead = fileSys.readFileSync("./public/stasi_files/index.json", "utf-8");
 
-            // create a temporary object
-            var tempObj = {};
-            tempObj.appName = appName;
-            tempObj.appVersion = appVersion;
-            tempObj.fileNumber = fileNumber;
+    // parse the data and get it in an array
+    indexArray = JSON.parse(fileRead);
 
-            indexArray.push(tempObj);
+    // create a temporary object
+    var tempObj = {};
+    tempObj.appName = appName;
+    tempObj.appVersion = appVersion;
+    tempObj.fileNumber = fileNumber;
 
-            // rewrite the index.json
+    indexArray.push(tempObj);
 
-            return indexArray;
-        }
-    });
+    // rewrite the index.json
+    var fileWrite = fileSys.writeFileSync("./public/stasi_files/index.json", JSON.stringify(indexArray, null, 4));
+
+    // read and return the data file
+    var data = JSON.parse(fileSys.readFileSync("./public/stasi_files/index.json", "utf-8"));
+    return data;
 }
