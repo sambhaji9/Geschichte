@@ -29,7 +29,7 @@ $(document).ready(function() {
 
         if (event.text !== "") {
             // save the event
-            showList(selectedApp.fileNumber);
+            saveEvent(getInputText(), new Date(d).toString(), selectedApp.fileNumber);
         } else {
             alert("Enter some event, click on Save button");
         }
@@ -64,6 +64,32 @@ var appsList = [];
  * variable for selected app object in the left pane
  */
 var selectedApp = {};
+
+/**
+ * function saving and returning the events list for an app
+ * @param {String} event text
+ * @param {number} event date stamp
+ * @param {number} fileNumber 
+ * @returns {array} array of events list
+ */
+function saveEvent(eventText, eventDateStamp, fileNumber) {
+    var httpRequest = new XMLHttpRequest();
+    if (!httpRequest) {
+        alert("Cannot create an XMLHttpRequest");
+        return false;
+    }
+
+    httpRequest.onreadystatechange = function() {
+        if (httpRequest.readyState === XMLHttpRequest.DONE) {
+            if (httpRequest.status === 200) {
+                if (JSON.parse(httpRequest.responseText))
+                    getAppEventsList(fileNumber);
+            }
+        }
+    };
+    httpRequest.open("GET", "http://127.0.0.1:9000/save_event?eventText=" + eventText + "&eventDateStamp=" + eventDateStamp + "&fileNumber=" + fileNumber, true);
+    httpRequest.send();
+}
 
 /**
  * function returning the events list for an app
@@ -112,17 +138,23 @@ function showAppEventsList(eventArray) {
 
         // create serial number cell
         var serialNumCell = document.createElement("td");
+        // set the cell width
+        serialNumCell.style.width = "5%";
         serialNumCell.innerHTML = num;
         // align serial number to center
         serialNumCell.style.textAlign = "center";
 
         // create dateStamp cell and show dateStamp
         var dateCell = document.createElement("td");
-        dateCell.innerHTML = eventArray[event].dateStamp;
+        // set the cell width
+        dateCell.style.width = "25%";
+        dateCell.innerHTML = eventArray[event].eventDateStamp;
 
         // create eventText cell and show event
         var eventTextCell = document.createElement("td");
-        eventTextCell.innerHTML = eventArray[event].event;
+        // set the cell width
+        eventTextCell.style.width = "75%";
+        eventTextCell.innerHTML = eventArray[event].eventText;
 
         // append table cell to row
         eveRow.appendChild(serialNumCell);
@@ -219,7 +251,6 @@ function getAppsList() {
             if (httpRequest.status === 200) {
                 // reload the apps list here
                 appsList = JSON.parse(httpRequest.responseText);
-                console.log(JSON.stringify(appsList, null, 4));
                 // load the appsList in leftPane
                 loadList(appsList);
             }

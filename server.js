@@ -28,6 +28,24 @@ app.get("/create_file", function(request, response) {
     });
 });
 
+app.get("/save_event", function(request, response) {
+    // read the file and get the array
+    var eventArray = JSON.parse(fileSys.readFileSync("./public/stasi_files/".concat(request.query.fileNumber).concat(".json"), "utf-8"));
+
+    // initialise an event object
+    var event = {};
+    // set eventText and eventDateStamp in object
+    event.eventText = request.query.eventText;
+    event.eventDateStamp = request.query.eventDateStamp;
+    // push the object in the array
+    eventArray.push(event);
+
+    // write the file
+    fileSys.writeFileSync("./public/stasi_files/".concat(request.query.fileNumber).concat(".json"), JSON.stringify(eventArray, null, 4));
+
+    response.send(true);
+});
+
 app.get("/get_apps_list", function(request, response) {
     // read the index.json file
     var array = fileSys.readFileSync("./public/stasi_files/index.json", "utf-8");

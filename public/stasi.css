@@ -1,5 +1,6 @@
 body {
     overflow-x: hidden;
+    font-family: HelveticaCondensed;
 }
 
 html,
@@ -128,4 +129,9 @@ input {
 td {
     font-family: Courier, monospace;
     font-size: 15px;
+}
+
+@font-face {
+    font-family: HelveticaCondensed;
+    src: url("./lib/Helvetica-condensed-oblique.ttf");
 }
