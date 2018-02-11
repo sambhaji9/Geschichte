@@ -1,6 +1,7 @@
 // load the express module
 var express = require("express");
 var app = express();
+// load the body-parser module
 var bodyParser = require("body-parser");
 
 
@@ -32,6 +33,13 @@ app.get("/get_apps_list", function(request, response) {
     var array = fileSys.readFileSync("./public/stasi_files/index.json", "utf-8");
     // return array
     response.send(array);
+});
+
+app.get("/get_events_list", function(request, response) {
+    // read the file
+    var eventArray = fileSys.readFileSync("./public/stasi_files/".concat(request.query.fileNumber).concat(".json"), "utf-8");
+
+    response.send(eventArray);
 });
 
 var server = app.listen(9000, function() {

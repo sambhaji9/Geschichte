@@ -8,17 +8,26 @@ body {
     margin: 0;
 }
 
+.header {
+    float: left;
+}
+
+.sub-header {
+    float: left;
+}
+
 .top {
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: flex-start;
     position: relative;
     z-index: 10;
     height: 100px;
-    background: #f0f0f0;
+    background: #ffffff;
+    border-bottom: 1px solid lightskyblue;
 }
 
-.container {
+.body-container {
     display: flex;
     overflow: hidden;
     height: 100vh;
@@ -30,6 +39,14 @@ body {
     will-change: overflow;
 }
 
+.header-container {
+    width: 20%;
+}
+
+.button-container {
+    width: 80%;
+}
+
 .left,
 .middle {
     overflow: auto;
@@ -37,6 +54,7 @@ body {
     padding: .5rem;
     -webkit-overflow-scrolling: touch;
     -ms-overflow-style: none;
+    padding-left: 20px;
 }
 
 .btn-outline-primary {
@@ -52,16 +70,25 @@ body {
     display: none;
 }
 
+.input-text {
+    width: 70%;
+    vertical-align: text-top;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 5px;
+    font-family: Courier, monospace;
+}
+
 .left {
     width: 300px;
     margin-left: -15px;
-    border-right: 1px solid #e0e0e0;
+    border-right: 1px solid lightskyblue;
 }
 
-.left p {
+.app-text {
     padding: 10px;
     margin: 0;
-    border-bottom: 1px solid #e0e0e0;
+    border-bottom: 1px solid lightskyblue;
 }
 
 .middle {
@@ -86,4 +113,19 @@ input {
 
 .container {
     margin-left: 1px;
+}
+
+.header-text,
+.sub-header-text {
+    text-align: right;
+}
+
+.sub-header-text {
+    justify-content: flex-end;
+    font-style: italic;
+}
+
+td {
+    font-family: Courier, monospace;
+    font-size: 15px;
 }

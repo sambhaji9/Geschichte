@@ -19,18 +19,24 @@
     <body>
 
         <div class="top">
-            <div>
+            <div class="header-container">
+                <h3 id="header" class="header-text"></h3>
+                <h6 id="subHeader" class="sub-header-text"></h6>
+            </div>
+            <div class="button-container">
+                <input id="inputText" type="text" class="form-control input-text" placeholder="Enter text, click on Save button..." disabled/>
                 <button type="button" class="btn btn-outline-primary" id="addNewApp" data-toggle="modal" data-target="#addNewAppModal">
                 <i class="icon far fa-plus-square"></i>
                 Add New</button>
-                <button class="btn btn-outline-primary" id="save">
+                <button class="btn btn-outline-primary" id="save" disabled>
                 <i class="icon far fa-save"></i>Save</button>
             </div>
         </div>
 
-        <div class="container">
+        <div class="body-container">
             <div class="left" id="leftPane"></div>
-            <div class="middle"></div>
+            <div class="middle" id="middlePane">
+            </div>
         </div>
 
         <!-- Modal -->
@@ -59,6 +65,27 @@
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary modal-button" data-dismiss="modal">Close</button>
                         <button type="button" class="btn btn-primary modal-button" id="btnSaveApp">Save changes</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <audio id="typewriter">
+            <source src="./lib/typewriter-key-1.mp3">
+        </audio>
+
+        <div class="modal fade" id="alertModal" tabindex="-1" role="dialog" aria-labelledby="alert" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Alert</h5>
+                    </div>
+                    <div class="modal-body">
+                        <p>Enter some event, click on Save button</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary modal-button" data-dismiss="modal">OK</button>
                     </div>
                 </div>
             </div>
