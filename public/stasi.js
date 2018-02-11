@@ -19,19 +19,19 @@ $(document).ready(function() {
     });
 
     $("#save").on("click", function() {
-        // initialize a event object
-        var event = {};
-        // get the inputText
-        event.text = getInputText();
+
         // get the timeStamp
         var d = Date.now();
-        event.dateStamp = new Date(d).toString();
 
-        if (event.text !== "") {
+        // get the inputText
+        var eventText = getInputText();
+
+        if (eventText !== "") {
             // save the event
-            saveEvent(getInputText(), new Date(d).toString(), selectedApp.fileNumber);
+            saveEvent(eventText, new Date(d).toString(), selectedApp.fileNumber);
         } else {
-            alert("Enter some event, click on Save button");
+            //alert("Enter some event, click on Save button");
+            $("#alertModal").modal("show");
         }
     });
 
