@@ -1,0 +1,22 @@
+[
+    {
+        "eventText": "John is asking for two developer contact names, email, phone numbers, in case there are some issues during the app upload on 13 Feb.",
+        "eventDateStamp": "Mon Feb 12 2018 09:37:05 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shrinath, Piyush sends the minor_server_update.zip file to Shantanu.",
+        "eventDateStamp": "Mon Feb 12 2018 16:56:03 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shantanu forwards the minor server update zip file to John.",
+        "eventDateStamp": "Mon Feb 12 2018 17:21:59 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "John needs an updated APK, with stage path and latest “My Tools” fix, for testing this improvement ticket. John also asks to increase the version code.",
+        "eventDateStamp": "Tue Feb 13 2018 17:35:17 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shantanu informs John that wrong apk file is uploaded and online. The online still has the myTools bug in it.",
+        "eventDateStamp": "Wed Feb 14 2018 14:59:47 GMT 0530 (IST)"
+    }
+]

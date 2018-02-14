@@ -29,6 +29,8 @@ $(document).ready(function() {
         if (eventText !== "") {
             // save the event
             saveEvent(eventText, new Date(d).toString(), selectedApp.fileNumber);
+            // reset the input box
+            document.getElementById("inputText").value = "";
         } else {
             //alert("Enter some event, click on Save button");
             $("#alertModal").modal("show");
