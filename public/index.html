@@ -29,8 +29,9 @@
                 <i class="icon far fa-plus-square"></i>
                 Add New</button>
                 <button class="btn btn-outline-primary" id="save" disabled>
-                <i class="icon far fa-save"></i>Save</button>
+                <i class="icon far fa-question-circle"></i>Save</button>
             </div>
+            <i class="far fa-question-circle about-icon" data-toggle="modal" data-target="#aboutModal"></i>
         </div>
 
         <div class="body-container">
@@ -79,6 +80,23 @@
                     </div>
                     <div class="modal-body">
                         <p>Enter some event, and then click on Save button</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary modal-button" data-dismiss="modal">OK</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="alert" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" id="exampleModalLabel">About</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>Powered by HTML5, CSS3, JavaScript, NodeJs, jQuery, Bootstrap, Sambhaji<br/>Version 1.0</p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary modal-button" data-dismiss="modal">OK</button>

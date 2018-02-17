@@ -153,3 +153,9 @@ td {
 .search-box {
     font-size: 15px;
 }
+
+.about-icon {
+    margin-right: 5px;
+    cursor: pointer;
+    color: #007bff;
+}
