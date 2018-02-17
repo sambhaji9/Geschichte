@@ -78,5 +78,15 @@
         "appName": "Modular builds",
         "appVersion": "1.0",
         "fileNumber": "1518607820762"
+    },
+    {
+        "appName": "STIKO app",
+        "appVersion": "2.0",
+        "fileNumber": "1518765987996"
+    },
+    {
+        "appName": "Rheumatologie app",
+        "appVersion": "2.2",
+        "fileNumber": "1518775198869"
     }
 ]

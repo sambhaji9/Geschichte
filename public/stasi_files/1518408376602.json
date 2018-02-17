@@ -18,5 +18,17 @@
     {
         "eventText": "Shantanu informs John that wrong apk file is uploaded and online. The online still has the myTools bug in it.",
         "eventDateStamp": "Wed Feb 14 2018 14:59:47 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "ACC iOS version is online.",
+        "eventDateStamp": "Thu Feb 15 2018 10:20:00 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "ACC Android app, v3.0 is backed up",
+        "eventDateStamp": "Thu Feb 15 2018 17:57:00 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "ACC iOS app, v3.0 is backed up",
+        "eventDateStamp": "Fri Feb 16 2018 12:34:21 GMT 0530 (IST)"
     }
 ]

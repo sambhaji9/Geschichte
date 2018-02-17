@@ -2,5 +2,25 @@
     {
         "eventText": "Shrinath, Piyush wrote to Dominik for any feedback on the Amyloidosis app.",
         "eventDateStamp": "Mon Feb 12 2018 17:05:07 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sharyu raises the issue of copyright of page 11 (4.0.0.0 Pathogenesis) document. Sylvia says that, you do not need permission to link to a website that is publicly accessible. However, it is better if the link directs the user outside of the app and the website opens in a new window. ",
+        "eventDateStamp": "Thu Feb 15 2018 18:03:07 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sharyu tells Dominik that we will be using the DOI link provided by Sylvia.",
+        "eventDateStamp": "Thu Feb 15 2018 18:29:20 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Amyloidosis app is uploaded for internal BBI testing.",
+        "eventDateStamp": "Fri Feb 16 2018 14:50:40 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sharyu informs Dominik about the new testflight version.",
+        "eventDateStamp": "Fri Feb 16 2018 15:51:14 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji requests Shrinath to send Amyloidosis app to Dominik. Bugs will be solved later before uploading.",
+        "eventDateStamp": "Fri Feb 16 2018 18:16:18 GMT 0530 (IST)"
     }
 ]

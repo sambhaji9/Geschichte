@@ -51,10 +51,6 @@ $(document).ready(function() {
         // get the file data and show it in the middle pane as list
         getAppEventsList(selectedApp.fileNumber);
     });
-
-    $("#inputText").on("keydown", function() {
-        //document.getElementById("typewriter").play();
-    });
 });
 
 /** 
@@ -108,7 +104,11 @@ function getAppEventsList(fileNumber) {
     httpRequest.onreadystatechange = function() {
         if (httpRequest.readyState === XMLHttpRequest.DONE) {
             if (httpRequest.status === 200) {
+                // load the events list
                 showAppEventsList(JSON.parse(httpRequest.responseText));
+
+                var searchBox = document.getElementById("searchBox");
+                searchBox.addEventListener("keyup", searchEvent);
             }
         }
     };
@@ -125,6 +125,9 @@ function showAppEventsList(eventArray) {
     var middlePane = document.getElementById("middlePane");
     // reset the middle pane
     emptyPane(middlePane);
+
+    // add the search box
+    middlePane.appendChild(addEventsSearchBox());
 
     // create event table
     var eveTable = document.createElement("table");
@@ -299,4 +302,50 @@ function showAppDetails(selectedAppObj) {
  */
 function getInputText() {
     return document.getElementById("inputText").value;
+}
+
+/** 
+ * function creating and returning a searchBox
+ * @returns {input} input box
+ */
+function addEventsSearchBox() {
+    // create input
+    var searchBox = document.createElement("input");
+    // add type, class, id attribute
+    searchBox.setAttribute("type", "text");
+    searchBox.setAttribute("class", "form-control search-box");
+    searchBox.setAttribute("id", "searchBox");
+    searchBox.setAttribute("placeholder", "Enter text to search ...");
+
+    return searchBox;
+}
+
+/** 
+ * function performing search over the events
+ * Rows containing the searched text are shown
+ */
+function searchEvent() {
+    // get the value from the search box
+    var searchText = document.getElementById("searchBox").value;
+
+    // get the rows
+    var rows = document.getElementsByClassName("table")[0].children;
+    // get the rows count
+    var rowLength = rows.length;
+
+    // iterate over the rows
+    for (var row = 0; row < rowLength; row++) {
+        // get the childNode containing the event text
+        var eventNode = rows[row].children[2];
+        // convert event to lowerCase
+        event = eventNode.innerHTML.toLowerCase();
+
+        // compare the text
+        if (event.indexOf(searchText.toLowerCase()) > -1) {
+            rows[row].style.display = "";
+        } else {
+            // hide the row, if text not matching
+            rows[row].style.display = "none";
+        }
+    }
 }

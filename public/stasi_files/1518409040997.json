@@ -54,5 +54,41 @@
     {
         "eventText": "Kiran has approved the ESC app, iOS and Android from quality side. Shrinath and Piyush is uploading the iOS and Android apps resp.",
         "eventDateStamp": "Wed Feb 14 2018 16:10:30 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Android app is online. Piyush informed the team.",
+        "eventDateStamp": "Wed Feb 14 2018 18:27:32 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "ESC iOS app is approved by Apple. Sambhaji has informed all the stakeholders.",
+        "eventDateStamp": "Thu Feb 15 2018 10:19:29 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shrinath has released the app in India only for testing purposes.",
+        "eventDateStamp": "Thu Feb 15 2018 13:09:37 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Modules team contacts Mariona and Sylvia to clear doubts on ESC Calendar design draft.",
+        "eventDateStamp": "Thu Feb 15 2018 13:11:19 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji sent email to Ghislain, saying the developer profile is working fine. Ghislain sent the profile on @14Feb, 4:48PM.",
+        "eventDateStamp": "Thu Feb 15 2018 17:34:40 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "ESC Android app, v3.7 is backed up",
+        "eventDateStamp": "Thu Feb 15 2018 17:56:33 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "ESC iOS app, v3.7 is backed up",
+        "eventDateStamp": "Thu Feb 15 2018 18:56:46 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sylvia notifies Veronica that ESC app is now online. Calendar tool, web version and windows version is still pending.",
+        "eventDateStamp": "Fri Feb 16 2018 10:03:15 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Pankaj clarifies the video manager functionality to Sylvia. Requests a Skype call.",
+        "eventDateStamp": "Fri Feb 16 2018 11:53:57 GMT 0530 (IST)"
     }
 ]

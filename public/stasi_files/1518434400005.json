@@ -6,5 +6,21 @@
     {
         "eventText": "Sambhaji sent the app store, Amazon, GA requirements to Dominik.",
         "eventDateStamp": "Tue Feb 13 2018 14:19:23 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "ACR sent a lots of feedback on the design draft.",
+        "eventDateStamp": "Thu Feb 15 2018 11:16:59 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Mariona asks Deepak, if Deepak will take care of the changes. Shantanu replied that he has already transferred the changes to Deepak.",
+        "eventDateStamp": "Thu Feb 15 2018 14:13:24 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Deepak says, he will implement the changes and will send the PDF. Mariona is fine with it.",
+        "eventDateStamp": "Thu Feb 15 2018 14:25:38 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Dominik says, we will use our own AWS S3 bucket.",
+        "eventDateStamp": "Fri Feb 16 2018 15:46:32 GMT 0530 (IST)"
     }
 ]
