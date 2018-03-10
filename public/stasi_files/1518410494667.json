@@ -6,5 +6,61 @@
     {
         "eventText": "Sambhaji replied back that splash screen can be changed from server update.",
         "eventDateStamp": "Mon Feb 12 2018 16:54:14 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji sends the last app backup to Shrinath",
+        "eventDateStamp": "Thu Feb 22 2018 11:28:01 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Pranav makes the changes in splash screen and sends for approval to Andrea.",
+        "eventDateStamp": "Fri Feb 23 2018 12:49:21 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Andrea sends a confirmation on the splash screen.",
+        "eventDateStamp": "Fri Feb 23 2018 13:17:09 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Andrea sends an email that she will complete the changes today.",
+        "eventDateStamp": "Fri Feb 23 2018 14:02:44 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Andrea has completed her changes on CMS. Sambhaji requests Gaurav to send the data and Pranav to send the baby default.",
+        "eventDateStamp": "Mon Feb 26 2018 08:52:02 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji gave a decision to Piyush to replace the data on both the production and test paths. Some issue with the online app and previous server updates.",
+        "eventDateStamp": "Mon Feb 26 2018 13:47:39 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "AGO app is uploaded on testflight for internal testing in BBI.",
+        "eventDateStamp": "Mon Feb 26 2018 17:02:10 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji sends the invitation to Andrea again.",
+        "eventDateStamp": "Fri Mar 02 2018 09:36:05 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Andrea tells to change the server update popup also. Shrinath and Piyush already made the changes.",
+        "eventDateStamp": "Mon Mar 05 2018 15:35:39 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Andrea is fine with the server update popup text from Nathalie.",
+        "eventDateStamp": "Mon Mar 05 2018 17:36:44 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji asks for final server update approval to Andrea.",
+        "eventDateStamp": "Mon Mar 05 2018 18:00:54 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Andrea has given her approval for the final server update.",
+        "eventDateStamp": "Tue Mar 06 2018 10:41:30 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji approves the server update of AGO app. The Android version is crashing sometimes on notes and bookmarks.",
+        "eventDateStamp": "Tue Mar 06 2018 18:44:45 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Server update is pushed in the online app by Shrinath and Piyush.",
+        "eventDateStamp": "Wed Mar 07 2018 13:47:37 GMT 0530 (IST)"
     }
 ]

@@ -26,5 +26,21 @@
     {
         "eventText": "First testflight version is sent to Frank and Dominik.",
         "eventDateStamp": "Sat Feb 17 2018 08:44:40 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Dominik suggests changes in the About page, @20Feb, 5:35AM. ",
+        "eventDateStamp": "Tue Feb 20 2018 15:11:23 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Dominik sends the keystore, alias name and password for Android app. Sambhaji forwarded the keystore to Neville.",
+        "eventDateStamp": "Wed Feb 21 2018 10:30:57 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shantanu and Soumya worked overtime on Sunday, 25Feb.",
+        "eventDateStamp": "Mon Feb 26 2018 09:04:38 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Both iOS and Android apps are uploaded on testflight.",
+        "eventDateStamp": "Fri Mar 09 2018 10:40:03 GMT 0530 (IST)"
     }
 ]

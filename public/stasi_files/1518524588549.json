@@ -6,5 +6,17 @@
     {
         "eventText": "Vishal sends an email on notes, bookmarks restoration issue after the server update.",
         "eventDateStamp": "Thu Feb 15 2018 11:18:10 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Server update with ,How to use' video and interactive tool is online.",
+        "eventDateStamp": "Tue Feb 20 2018 16:35:14 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Vaclav is asking Dominik about the project status of open subprojects in Redmine.",
+        "eventDateStamp": "Tue Feb 20 2018 19:17:56 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Dominik sends the changes in the AHA app data and asks to add in JIRA.",
+        "eventDateStamp": "Thu Mar 08 2018 10:52:48 GMT 0530 (IST)"
     }
 ]

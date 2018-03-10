@@ -2,5 +2,17 @@
     {
         "eventText": "Modular Software Build 6.23 for Android is released",
         "eventDateStamp": "Wed Feb 14 2018 17:00:40 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Modular build 6.32 is released for iOS",
+        "eventDateStamp": "Tue Feb 20 2018 16:15:04 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Modular build 6.33 for iOS and 6.24 for Android is released.",
+        "eventDateStamp": "Mon Feb 26 2018 13:54:32 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Modular build 6.25 is released for Android.",
+        "eventDateStamp": "Tue Mar 06 2018 17:58:39 GMT 0530 (IST)"
     }
 ]

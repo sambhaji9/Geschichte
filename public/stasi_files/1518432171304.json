@@ -38,5 +38,61 @@
     {
         "eventText": "Anneke has accepted the agreement. iTunes connect is back to normal now.",
         "eventDateStamp": "Fri Feb 16 2018 15:02:49 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Rahul has sent 4 guidelines(Neuro-urology, Male infertility, Urological infections, Uro trauma) to Sylvia, @23Feb, 5:55PM.",
+        "eventDateStamp": "Tue Feb 27 2018 12:38:26 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Rahul has sent 3 guidelines(Priapism, Male hypogonadism, Chronic pelvic pain) to Sylvia",
+        "eventDateStamp": "Tue Feb 27 2018 12:39:10 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Rahul sends some more guidelines to Sylvia for checking. (NMIBC, UTUC, Male sexual dysfunction, Penile curvature)",
+        "eventDateStamp": "Tue Feb 27 2018 16:32:44 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Gaurav has sent the data of 16 guidelines to Shrinath, Piyush",
+        "eventDateStamp": "Thu Mar 01 2018 17:01:42 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Rahul informs Sylvia and Constance that all 22 guidelines can now be checked in CMS viewer app.",
+        "eventDateStamp": "Fri Mar 02 2018 08:28:24 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance informs Rahul that she will not work on CMS, unless Rahul asks her to start.",
+        "eventDateStamp": "Fri Mar 02 2018 18:55:04 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji suggests Sylvia that a server update for EAU app, as technical update will take time and efforts.",
+        "eventDateStamp": "Mon Mar 05 2018 10:12:27 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "EAU app is uploaded for internal checking on testflight both iOS and Android.",
+        "eventDateStamp": "Mon Mar 05 2018 14:59:18 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Pranav has given the graphics approval.",
+        "eventDateStamp": "Mon Mar 05 2018 16:10:28 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Beta version os now approved by Apple.",
+        "eventDateStamp": "Tue Mar 06 2018 12:18:35 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance continues to send feedbacks for the EAU app.",
+        "eventDateStamp": "Tue Mar 06 2018 13:21:06 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "App is now sent to EAU testers. Shrinath notifies the testers.",
+        "eventDateStamp": "Tue Mar 06 2018 17:01:11 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Rahul approves the EAU app editorially. App is ready to send to BBV and EAU.",
+        "eventDateStamp": "Tue Mar 06 2018 17:46:43 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "External testers are added and app is sent for testing. Shrinath and Piyush now informs Constance.",
+        "eventDateStamp": "Wed Mar 07 2018 11:26:14 GMT 0530 (IST)"
     }
 ]

@@ -81,8 +81,9 @@ body {
     display: inline-block;
     margin-left: 50px;
     margin-top: 5px;
-    /* font-family: Courier, monospace; */
     font-size: 15px;
+    font-family: elite;
+    letter-spacing: 1px;
 }
 
 .left {
@@ -137,13 +138,14 @@ input {
 }
 
 td {
-    font-family: Courier, monospace;
+    font-family: elite;
     font-size: 15px;
+    letter-spacing: 1px;
 }
 
 @font-face {
-    font-family: HelveticaCondensed;
-    src: url("./lib/Helvetica-condensed-oblique.ttf");
+    font-family: elite;
+    src: url("./lib/SpecialElite.ttf");
 }
 
 .modal-button {
@@ -151,7 +153,9 @@ td {
 }
 
 .search-box {
+    font-family: elite;
     font-size: 15px;
+    letter-spacing: 1px;
 }
 
 .about-icon {

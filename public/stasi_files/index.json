@@ -88,5 +88,20 @@
         "appName": "Rheumatologie app",
         "appVersion": "2.2",
         "fileNumber": "1518775198869"
+    },
+    {
+        "appName": "EHRA app",
+        "appVersion": "2.5",
+        "fileNumber": "1519119019587"
+    },
+    {
+        "appName": "Vacation",
+        "appVersion": "1.0",
+        "fileNumber": "1519959072113"
+    },
+    {
+        "appName": "ESMO Interactive guidelines",
+        "appVersion": "2.0",
+        "fileNumber": "1520313236089"
     }
 ]

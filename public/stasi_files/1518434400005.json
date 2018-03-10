@@ -22,5 +22,21 @@
     {
         "eventText": "Dominik says, we will use our own AWS S3 bucket.",
         "eventDateStamp": "Fri Feb 16 2018 15:46:32 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Deepak completes the changes and resend the DD for approvals.",
+        "eventDateStamp": "Tue Feb 20 2018 19:21:33 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Dominik informs that the DD is with client now for approvals.",
+        "eventDateStamp": "Wed Feb 21 2018 10:42:06 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shantanu sends the ACR app TOC, data for approvals to Dominik.",
+        "eventDateStamp": "Thu Mar 01 2018 14:13:59 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Dominik asks Shantanu to update the ACR timeline in Redmine.",
+        "eventDateStamp": "Wed Mar 07 2018 09:38:28 GMT 0530 (IST)"
     }
 ]

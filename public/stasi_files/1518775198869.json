@@ -6,5 +6,65 @@
     {
         "eventText": "A new testflight version with latest data is sent to Carla.",
         "eventDateStamp": "Sat Feb 17 2018 08:46:36 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla informs Shrinath and Piyush that she is not able to see the Rheumatologie app.",
+        "eventDateStamp": "Mon Feb 19 2018 14:17:32 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shrinath invites Carla one more time to test the app.",
+        "eventDateStamp": "Mon Feb 19 2018 14:25:16 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla has now downloaded the app and is testing now.",
+        "eventDateStamp": "Mon Feb 19 2018 14:36:34 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla checks the app and sends back the feedback.",
+        "eventDateStamp": "Mon Feb 19 2018 16:19:16 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji sends the decision to change the copyright year from 2017 to 2018.",
+        "eventDateStamp": "Tue Feb 20 2018 16:29:26 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla approves the app and requests to send the screenshot PDF of whole app. Also send the app to external testers on testflight.",
+        "eventDateStamp": "Wed Feb 21 2018 10:26:43 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Check the installation status by external testers and reply back to Carla.",
+        "eventDateStamp": "Fri Feb 23 2018 21:47:25 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Testflight version for both iOS and Android sent to Carla and external testers.",
+        "eventDateStamp": "Fri Feb 23 2018 21:48:24 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Screenshot PDF is sent to Carla.",
+        "eventDateStamp": "Mon Feb 26 2018 22:15:02 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla informs that Mrs Stehlin has not received the invitation to test the app.",
+        "eventDateStamp": "Wed Feb 28 2018 13:01:14 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shrinath and Piyush sends the Android apk again. Also requests to send the device type.",
+        "eventDateStamp": "Thu Mar 01 2018 11:54:25 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla sends back the feedback that some of the links are not working in the Android app.",
+        "eventDateStamp": "Thu Mar 01 2018 13:21:39 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla has sent more feedbacks for Rheumatologie app.",
+        "eventDateStamp": "Thu Mar 01 2018 17:51:54 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla will send the screenshots to client related to links.",
+        "eventDateStamp": "Tue Mar 06 2018 15:34:07 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Gaurav follows up with Carla for changes and approvals",
+        "eventDateStamp": "Sat Mar 10 2018 09:18:42 GMT 0530 (IST)"
     }
 ]

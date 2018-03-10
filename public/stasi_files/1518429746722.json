@@ -50,5 +50,181 @@
     {
         "eventText": "Shaishav sends the DGK CPP tool for checking.",
         "eventDateStamp": "Fri Feb 16 2018 18:11:46 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Gaurav sends a gentle reminder to Bettina to resolve the TOC issue in Nichtkardiale guideline.",
+        "eventDateStamp": "Mon Feb 19 2018 14:23:38 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Parag explains Nathalie that adding icon on homescreen and adding landing page will be too much work for us. This also includes technical update of DGK app.",
+        "eventDateStamp": "Mon Feb 19 2018 16:45:26 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Philipp says, for now we go with the \"slider before each tool“ option. Marc will make the POC.",
+        "eventDateStamp": "Mon Feb 19 2018 17:36:32 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Bettina sends the corrected TOC to Gaurav for Nichtkardiale guideline.",
+        "eventDateStamp": "Tue Feb 20 2018 16:22:48 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Bettina finishes all the changes for VHF, sambhaji forwards the info to wen production, production programming",
+        "eventDateStamp": "Wed Feb 21 2018 15:44:58 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Bettina sends a list of guidelines for next technical update.",
+        "eventDateStamp": "Wed Feb 21 2018 17:38:06 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Vaclav is asking Bettina for deadlines of 4 guidelines in the DGK app.",
+        "eventDateStamp": "Wed Feb 21 2018 18:47:39 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Disha uploads the CPP on ITD and informs Shaishav to check.",
+        "eventDateStamp": "Thu Feb 22 2018 14:33:47 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nichtkardiale guideline is now on CMS. Gaurav informs Bettina.",
+        "eventDateStamp": "Thu Feb 22 2018 16:30:06 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Gaurav informs that the Nichtkardiale guideline is on CMS. Bettina acknowledges that the she is checking guideline on CMS.",
+        "eventDateStamp": "Fri Feb 23 2018 10:30:39 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shaishav sends some more files to replace in DGK CPP to Disha.",
+        "eventDateStamp": "Fri Feb 23 2018 17:45:04 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji forwards the modules programming team feedback to Ben.",
+        "eventDateStamp": "Fri Feb 23 2018 17:58:18 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Disha sends email to Shaishav that, she has updated the tool on ITD. Shaishav can check the updated tool on CMS Viewer app.",
+        "eventDateStamp": "Mon Feb 26 2018 13:55:46 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Pranav contacts Marc for icons design on home screen. Also sends the character restrictions on icon to Ben.",
+        "eventDateStamp": "Tue Feb 27 2018 14:42:54 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Bettina is not able to see the tools in the CMS viewer app. Gaurav has made the fix. Bettina can now see the tools in CMS Viewer app.",
+        "eventDateStamp": "Tue Feb 27 2018 16:02:11 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance sends the source files for DGK app. Pranav updates the static images and sends it to programmers. Sambhaji forwards the images to Constance for approvals.",
+        "eventDateStamp": "Tue Feb 27 2018 16:30:54 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Gaurav informs Carla that the PLL Aortenerkrankungen GL is now available on CMS.",
+        "eventDateStamp": "Wed Feb 28 2018 09:31:30 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Bettina approves that only two page can be pushed in VHF guideline for now, DYSLIp tools can come later.",
+        "eventDateStamp": "Wed Feb 28 2018 14:37:35 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Pranav contacts Marc for open files of one new guideline for CPPs.",
+        "eventDateStamp": "Thu Mar 01 2018 12:39:28 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Marc replies that he will send the open files today.",
+        "eventDateStamp": "Thu Mar 01 2018 14:35:27 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji gives the confirmation to Shrinath and Piyush to push the two pages in the online app.",
+        "eventDateStamp": "Thu Mar 01 2018 14:39:52 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Server update in DGK app for two page pushed by Shrinath, Piyush",
+        "eventDateStamp": "Thu Mar 01 2018 17:02:25 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Gaurav requests Carla to send information on tools in PLL guideline.",
+        "eventDateStamp": "Thu Mar 01 2018 17:03:47 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla sends the .mrf file for PLL guideline to Gaurav.",
+        "eventDateStamp": "Thu Mar 01 2018 17:43:29 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Marc sends the first draft of icons to Pranav. Marc awaits feedbacks from Ben.",
+        "eventDateStamp": "Thu Mar 01 2018 17:44:48 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sandra tells that the Daichi Sankyo extended the slider contract for VHF. Please keep the slider online.",
+        "eventDateStamp": "Thu Mar 01 2018 17:54:25 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Gaurav has linked one algo to content, informs Carla. Gaurav informs that footer is missing and Disha will work on the changes later.",
+        "eventDateStamp": "Fri Mar 02 2018 08:24:33 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Ben has approved the icons and splash screen for CPP.",
+        "eventDateStamp": "Fri Mar 02 2018 08:26:46 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla will work on Monday to activate the footer buttons in algomaker.",
+        "eventDateStamp": "Fri Mar 02 2018 18:56:35 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla informs Gaurav that she has added the footer section in one algo in PLL guideline.",
+        "eventDateStamp": "Mon Mar 05 2018 15:36:51 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Marc has finalised the app icons and Pranav will take care of providing it to the programmers. Sambhaji has asked Ben to provide the information on flip images for 6 CPPs.",
+        "eventDateStamp": "Mon Mar 05 2018 17:36:18 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Pranav sends the proposal of splash screen and icons to Ben and Marc.",
+        "eventDateStamp": "Tue Mar 06 2018 15:30:28 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Gaurav informs Bettina that CMS Viewer app do not support FFC.",
+        "eventDateStamp": "Tue Mar 06 2018 15:31:04 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Ben sends back the changes in splash screen and icons.",
+        "eventDateStamp": "Tue Mar 06 2018 16:36:52 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Pranav makes the changes and sends it back to Ban for approval.",
+        "eventDateStamp": "Tue Mar 06 2018 16:50:39 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Ben sends the information required for new CPU CPP guidelines on CMS.",
+        "eventDateStamp": "Wed Mar 07 2018 19:06:53 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Bettina informs that, Kardiovaskuläre Komplikationen… is now approved from Authors.",
+        "eventDateStamp": "Wed Mar 07 2018 19:09:27 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji asks Bettina, whether Perikarderkrankungen guideline is also approved.",
+        "eventDateStamp": "Wed Mar 07 2018 19:12:06 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Bettina says Perikarderkrankungen guideline is already approved.",
+        "eventDateStamp": "Thu Mar 08 2018 11:59:01 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Pranav has asked for DD, Marc will send it after discussion with Mariona.",
+        "eventDateStamp": "Thu Mar 08 2018 15:49:47 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Mariona sends the design draft @7Mar after making changes. Also sends the open files to Pranav.",
+        "eventDateStamp": "Fri Mar 09 2018 10:20:40 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Pranav sends email to Mariona pointing the font error and icons discrepancies.",
+        "eventDateStamp": "Fri Mar 09 2018 10:54:07 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Mariona replies to Pranav and provide information on fonts.",
+        "eventDateStamp": "Fri Mar 09 2018 14:14:34 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Pranav sends the graphics data to programmers.",
+        "eventDateStamp": "Fri Mar 09 2018 15:31:59 GMT 0530 (IST)"
     }
 ]

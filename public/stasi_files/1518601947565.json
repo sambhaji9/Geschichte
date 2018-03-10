@@ -14,5 +14,93 @@
     {
         "eventText": "DGVS iOS app with Kodierleitfaden GL is sent to Vaclav for checking.",
         "eventDateStamp": "Thu Feb 15 2018 15:42:53 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji proposes 28Feb as online date for Kodierleitfaden guideline.",
+        "eventDateStamp": "Mon Feb 19 2018 11:20:29 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance sends a feedback  that the icon and splash screen is not updated. Sambhaji requests Neville, Harshit to change the icon and splash screen.",
+        "eventDateStamp": "Mon Feb 19 2018 17:21:22 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Vaclav puts DGVS app in the sprint.",
+        "eventDateStamp": "Mon Feb 19 2018 17:22:19 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji requests Constance to directly contact Neville for changes.",
+        "eventDateStamp": "Tue Feb 20 2018 15:09:15 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Pranav sends the updated splash screen to programmers.",
+        "eventDateStamp": "Tue Feb 20 2018 15:12:22 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance acknowledges that the splash screens looks fine.",
+        "eventDateStamp": "Tue Feb 20 2018 16:50:02 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Programmers asks if TOC color is also to be changed. Constance says, Petra is on sick leave today and will help you asap when she’s back in the office",
+        "eventDateStamp": "Tue Feb 20 2018 16:51:11 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance sends the Tools TOC corrections to Neville.",
+        "eventDateStamp": "Tue Feb 20 2018 16:52:02 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Neville changed the Tools TOC colors. Constance approved the Tools TOC. She sends some more changes today.",
+        "eventDateStamp": "Tue Feb 20 2018 19:20:32 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Petra sends the Tools toc color code.",
+        "eventDateStamp": "Wed Feb 21 2018 15:48:34 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance sends the changes to Neville for typos.",
+        "eventDateStamp": "Wed Feb 21 2018 15:50:21 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance sends email to Piyush, Shrinath to update the DGVS app name to DGVS-Leitlinien",
+        "eventDateStamp": "Wed Feb 21 2018 18:08:53 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Neville sends email to Constance to download the server updates to see the changes.",
+        "eventDateStamp": "Thu Feb 22 2018 11:52:37 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance approved the DGVS server update for both GI-Blutung and Kodierleitfaden.",
+        "eventDateStamp": "Thu Feb 22 2018 14:14:58 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance gave decision to provide two server updates.",
+        "eventDateStamp": "Thu Feb 22 2018 17:47:27 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Server update for behavioural file is sent for iOS and Android.",
+        "eventDateStamp": "Fri Feb 23 2018 10:31:44 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Server update of Kodierleitfaden is pushed in the online app. Neville has now informed Constance.",
+        "eventDateStamp": "Mon Feb 26 2018 12:46:30 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji clarifies that we are not storing IP addresses of users. We can even show a popup for GA, when the app starts.",
+        "eventDateStamp": "Mon Feb 26 2018 17:07:55 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji sends an video to constance to clarify the doubts on popup.",
+        "eventDateStamp": "Tue Feb 27 2018 11:35:57 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji has told Constance that changing app name for iOS is not possible. We can change the app name for Android.",
+        "eventDateStamp": "Tue Feb 27 2018 13:10:57 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance informs that nothing to be done for Android app name on Google Play.",
+        "eventDateStamp": "Tue Feb 27 2018 14:07:48 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Julia is replying back to client on IP address anonymizations.",
+        "eventDateStamp": "Tue Feb 27 2018 16:41:32 GMT 0530 (IST)"
     }
 ]
