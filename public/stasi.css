@@ -1,6 +1,5 @@
 body {
     overflow-x: hidden;
-    /*font-family: HelveticaCondensed;*/
 }
 
 html,
@@ -140,7 +139,6 @@ input {
 td {
     font-family: elite;
     font-size: 15px;
-    letter-spacing: 1px;
 }
 
 @font-face {

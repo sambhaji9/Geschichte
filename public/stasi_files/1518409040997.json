@@ -126,5 +126,85 @@
     {
         "eventText": "Mariona sends the SOP for calendar tool.",
         "eventDateStamp": "Thu Mar 01 2018 14:31:46 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nathalie sends screenshots of ESC home screen on iPhone10 device. Forward these screenshots to programmers.",
+        "eventDateStamp": "Sun Mar 11 2018 07:19:05 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Antje sends HCM SCD Calculator issue. HCM SCD calculator link is dysfunctional",
+        "eventDateStamp": "Fri Mar 16 2018 15:23:46 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nathalie sends a screenshot of news tool not working properly in iPhone10 device.",
+        "eventDateStamp": "Wed Mar 21 2018 09:58:13 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji sends the app efforts to Sylvia.",
+        "eventDateStamp": "Fri Mar 23 2018 17:16:16 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "App with calendar tool is now uploaded for BBI internal testing.",
+        "eventDateStamp": "Fri Mar 23 2018 18:16:28 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sylvia is fine with deep links for August release. Set the deadline as 25/08/2018.",
+        "eventDateStamp": "Tue Mar 27 2018 17:35:28 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sylvia has asked for the estimations for deep links implementation.",
+        "eventDateStamp": "Mon Apr 02 2018 15:50:49 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "iOS app with calendar tool is sent on testflight.",
+        "eventDateStamp": "Thu Apr 05 2018 17:44:11 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Android app is sent on testflight for Nathalie.",
+        "eventDateStamp": "Fri Apr 06 2018 14:02:30 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sylvia contacts Lore from ESC for correct RSS feed.",
+        "eventDateStamp": "Thu Apr 12 2018 10:32:13 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Lore sends email to Sylvia, saying the RSS feed link is correct, as it doesn't make sense to show the endorsed and external events. Sambhaji sends all the changes to the team.",
+        "eventDateStamp": "Thu Apr 12 2018 12:34:50 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Veronica write that, ESC promised our National Guidelines Coordinators in December to advertise their meetings in our App. So, RSS feed may change.",
+        "eventDateStamp": "Thu Apr 12 2018 13:16:50 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sylvia sends the screenshots to Veronica for calendar tool.",
+        "eventDateStamp": "Thu Apr 12 2018 17:51:13 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Laura says that NCS events has been added and filters should have been added.",
+        "eventDateStamp": "Fri Apr 13 2018 10:06:52 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "ESC has now added non-ESC events also in the RSS feed. Sylvia can see the new events in the calendar tool.",
+        "eventDateStamp": "Fri Apr 13 2018 18:35:05 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "ESC app is sent on testflight to Sylvia and Nathalie on Friday, @13April.",
+        "eventDateStamp": "Mon Apr 16 2018 09:13:42 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sylvia has sent the feedbacks for the ESC app. Sambhaji has sent the graphics requirements.",
+        "eventDateStamp": "Mon Apr 16 2018 09:23:01 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nilesh sends email to Christophe for guidelines logs verification.",
+        "eventDateStamp": "Mon Apr 16 2018 16:13:19 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Christophe sends the logs to Nilesh",
+        "eventDateStamp": "Mon Apr 16 2018 18:13:51 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Both iOS and Android Apps are sent on testflight for final approval from Sylvia and Nathalie.",
+        "eventDateStamp": "Mon Apr 16 2018 19:00:10 GMT 0530 (IST)"
     }
 ]

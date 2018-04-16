@@ -1,0 +1,26 @@
+[
+    {
+        "eventText": "Nathalie has asked to change the link for drop down from the home screen.",
+        "eventDateStamp": "Thu Mar 22 2018 16:46:30 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Programmers has one the changes and app is approved from the quality.",
+        "eventDateStamp": "Thu Mar 22 2018 16:47:04 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Screenshots is sent to Nathalie for approval. Server update with one link is pushed online.",
+        "eventDateStamp": "Thu Mar 22 2018 18:10:11 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nathalie reports that links in the iOS app is not working but works in the Android app.",
+        "eventDateStamp": "Wed Mar 28 2018 10:37:25 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Changes in the links worked for Nathalie after removing the app from memory.",
+        "eventDateStamp": "Wed Mar 28 2018 17:29:52 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji sends the QR code to Sandra",
+        "eventDateStamp": "Mon Apr 16 2018 17:46:01 GMT 0530 (IST)"
+    }
+]

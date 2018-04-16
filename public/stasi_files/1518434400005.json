@@ -38,5 +38,57 @@
     {
         "eventText": "Dominik asks Shantanu to update the ACR timeline in Redmine.",
         "eventDateStamp": "Wed Mar 07 2018 09:38:28 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shantanu requests Dominik to provide excel sheets for 3 tools, FRAX score, FORE score, QFracture score",
+        "eventDateStamp": "Mon Mar 12 2018 12:55:23 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Treatment of Rheumatoid Arthritis guideline is on CMS, @9Mar",
+        "eventDateStamp": "Tue Mar 13 2018 09:39:48 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Glucocorticoid Induced Osteoporosis guideline is on CMS, 12Mar",
+        "eventDateStamp": "Tue Mar 13 2018 09:40:22 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "The changes for DD arrived from client, forwarded by Dominik.",
+        "eventDateStamp": "Tue Mar 13 2018 09:41:56 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "DD is sent to client for approval.",
+        "eventDateStamp": "Wed Mar 14 2018 17:36:43 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Perioperative Management of Antirheumatic Medication guideline is on CMS, @14Mar.",
+        "eventDateStamp": "Thu Mar 15 2018 09:52:24 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shantanu informs Dominik that ACR 3 guidelines are available on CMS.",
+        "eventDateStamp": "Mon Mar 19 2018 11:52:18 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "ACR app design draft is finalised by client.",
+        "eventDateStamp": "Wed Mar 21 2018 09:53:21 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Android Google Play developer invitation received and accepted.",
+        "eventDateStamp": "Tue Mar 27 2018 14:14:00 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji sends reminder email to Dominik for iTunes and Google play developer console.",
+        "eventDateStamp": "Tue Apr 03 2018 15:32:31 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "iTunes connect invitation received and accepted. Android account is also accessible.",
+        "eventDateStamp": "Thu Apr 05 2018 10:18:36 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Dominik has asked to remove QFracture tool from the ACR app.",
+        "eventDateStamp": "Thu Apr 05 2018 12:31:14 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Dominik has asked to add 5 criteria guidelines as content and not as links. Also, 2010 Rheumatoid Arthritis Classification Criteria we will delete the algo tool (because the score in the GL is better)",
+        "eventDateStamp": "Mon Apr 16 2018 11:22:24 GMT 0530 (IST)"
     }
 ]

@@ -226,5 +226,105 @@
     {
         "eventText": "Pranav sends the graphics data to programmers.",
         "eventDateStamp": "Fri Mar 09 2018 15:31:59 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "First testflight version is sent to BBI internal testing.",
+        "eventDateStamp": "Mon Mar 12 2018 17:38:15 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Gaurav informs Ben that CDS CPP tool chapter is now added in CMS.",
+        "eventDateStamp": "Mon Mar 12 2018 17:54:54 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Access is given to Ben for DGK app.",
+        "eventDateStamp": "Tue Mar 13 2018 16:24:50 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Ben sends changes in the CPPs",
+        "eventDateStamp": "Wed Mar 14 2018 14:08:03 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "iOS version is sent on testflight. Shrinath informs everyone.",
+        "eventDateStamp": "Mon Mar 19 2018 18:05:16 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shaishav make changes in the supporting files and resends after discussion with Sambhaji.",
+        "eventDateStamp": "Wed Mar 21 2018 09:57:23 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla sends the data of Fahreignung bei kardiovaskulären Erkrankungen guideline.",
+        "eventDateStamp": "Wed Mar 21 2018 17:04:08 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "iOS and Android versions are sent on testflight with CPP issue solved.",
+        "eventDateStamp": "Thu Mar 22 2018 09:59:15 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nichtkardiale  GL is now approved by Authors.",
+        "eventDateStamp": "Thu Mar 22 2018 11:06:34 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance, Bettina informs that PLL Aorterkrankungen GL can be delayed, as author is not so app affine.",
+        "eventDateStamp": "Thu Mar 22 2018 15:40:47 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sandra informs that the Daiichi Sankyo sponsor image stays the same as the sponsor renews the contract.",
+        "eventDateStamp": "Thu Mar 22 2018 16:00:30 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance requests Carla to check the DGK app.",
+        "eventDateStamp": "Thu Mar 22 2018 16:30:57 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla and Constance has asked for the screenshot PDF of PLL guideline",
+        "eventDateStamp": "Fri Mar 23 2018 10:49:15 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji suggests what to check in the DGK app to Carla.",
+        "eventDateStamp": "Fri Mar 23 2018 15:21:42 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "DGK app is now sent to the external testers",
+        "eventDateStamp": "Fri Mar 23 2018 15:22:08 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Screenshot PDF for PLL is sent to Carla.",
+        "eventDateStamp": "Tue Mar 27 2018 12:31:59 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shaishav sends CPP's after making the changes.",
+        "eventDateStamp": "Tue Mar 27 2018 15:23:01 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance has asked for the design draft for bold/non-bold issue. Mariona says modules and production programmers should verify the DD. Nathalie clears that the design draft is taken for granted for programmers. Marc has clarified that all DD's since 2016 have bold headers. Marc is making the changes in design draft.",
+        "eventDateStamp": "Wed Mar 28 2018 15:11:22 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Constance has send the changes for header texts, @30March, also the name of the affected guidelines.",
+        "eventDateStamp": "Mon Apr 02 2018 16:08:49 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "CPP issues are solved, but need a new build release. Nilesh, Sambhaji, Kiran and Shrinath has discussed, new build won't be released. Code changes will be integrated by Mangesh in next build.",
+        "eventDateStamp": "Mon Apr 02 2018 16:10:02 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "iOS version is submitted for expedited review, @2April, 10PM.",
+        "eventDateStamp": "Tue Apr 03 2018 11:15:58 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "DGK app is approved and released worldwide.",
+        "eventDateStamp": "Wed Apr 04 2018 14:31:41 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Bettina sends an email to change a single page in HF 2016 guideline.",
+        "eventDateStamp": "Wed Apr 11 2018 18:09:46 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Server update for one page (html page: DEAS5293_3.0.0.0) in HF guideline is given.",
+        "eventDateStamp": "Fri Apr 13 2018 12:42:35 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Bettina has sent Therapie des akuten Herzinfarktes bei Patienten mit persistierender ST-Streckenhebung guideline for data export.",
+        "eventDateStamp": "Mon Apr 16 2018 19:00:49 GMT 0530 (IST)"
     }
 ]

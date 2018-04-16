@@ -18,5 +18,21 @@
     {
         "eventText": "Neville informs Dominik that the server update for one page is given in the online app. ",
         "eventDateStamp": "Fri Feb 23 2018 13:08:10 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Dominik has asked Shantanu to send the screenshots of two pages to client, after making the changes.",
+        "eventDateStamp": "Thu Apr 05 2018 10:16:40 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shantanu makes the changes in the drug page and send the screenshots to Dominik for approval.",
+        "eventDateStamp": "Thu Apr 05 2018 11:25:28 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "The drug changes are approved by client. Server update has got the green signal.",
+        "eventDateStamp": "Fri Apr 06 2018 09:37:00 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Drug change server update is now online",
+        "eventDateStamp": "Fri Apr 06 2018 16:38:14 GMT 0530 (IST)"
     }
 ]

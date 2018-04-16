@@ -66,5 +66,13 @@
     {
         "eventText": "Gaurav follows up with Carla for changes and approvals",
         "eventDateStamp": "Sat Mar 10 2018 09:18:42 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Carla has approved the Rheumatologie app.",
+        "eventDateStamp": "Mon Mar 19 2018 15:23:22 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "App is approved by Apple. Sambhaji tells Shrinath, Kiran to release the app.",
+        "eventDateStamp": "Thu Mar 22 2018 10:11:59 GMT 0530 (IST)"
     }
 ]

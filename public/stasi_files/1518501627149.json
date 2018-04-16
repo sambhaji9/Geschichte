@@ -110,5 +110,101 @@
     {
         "eventText": "Sambhaji tells Rasika to adopt the Rechtliches sent by Nathalie in her email.",
         "eventDateStamp": "Sat Mar 10 2018 09:10:26 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nathalie has said to remove the more information buttons.",
+        "eventDateStamp": "Mon Mar 12 2018 11:07:31 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji met Harshit and Neville to discuss the changes from Nathalie.",
+        "eventDateStamp": "Mon Mar 12 2018 11:29:57 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Vishal has sent the icons and new splash screen for Nathalie's and Mariona's approval. Nathalie has approved the icons and splash.",
+        "eventDateStamp": "Tue Mar 13 2018 17:06:13 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "BMI Rechner tool issue is solved. Tool is sent to Disha.",
+        "eventDateStamp": "Wed Mar 14 2018 12:55:54 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Mariona has sent feedbacks for splash screen. Icons are okay.",
+        "eventDateStamp": "Wed Mar 14 2018 13:17:22 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nathalie has asked for testflight version. Deepak sends screenshots for user guide.",
+        "eventDateStamp": "Thu Mar 15 2018 13:24:49 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nathalie sends the user guide texts to Deepak.",
+        "eventDateStamp": "Fri Mar 16 2018 12:46:52 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "The Android version is uploaded on testflight.",
+        "eventDateStamp": "Wed Mar 21 2018 10:46:13 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Home screenshots sent to Nathalie and Mariona for approvals.",
+        "eventDateStamp": "Wed Mar 21 2018 16:11:46 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Mariona approves the screenshots of home screen.",
+        "eventDateStamp": "Wed Mar 21 2018 16:14:14 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nathalie also approves the screenshots of home screen.",
+        "eventDateStamp": "Thu Mar 22 2018 09:59:51 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Deepak has sent user guide for approval to Nathalie and Mariona.",
+        "eventDateStamp": "Fri Mar 23 2018 10:49:57 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Neville has asked Nathalie to provide changes in the Android version and also approve the user guide sent by Deepak.",
+        "eventDateStamp": "Mon Mar 26 2018 10:23:33 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Deepak is asking for comments on user guide.",
+        "eventDateStamp": "Tue Mar 27 2018 12:32:45 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nathalie sends her Android app feedbacks to Neville.",
+        "eventDateStamp": "Tue Mar 27 2018 17:41:15 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nathalie sends her feedbacks on userguide.",
+        "eventDateStamp": "Tue Mar 27 2018 19:18:54 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Neville sends explanation emails to Nathalie for Android app.",
+        "eventDateStamp": "Wed Mar 28 2018 10:35:16 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nathalie has checked the app on Android small device. The app looks great on small device. Nathalie is checking with Nana, whether a tablet version is also ordered for Diabetes infopocket.",
+        "eventDateStamp": "Wed Mar 28 2018 16:46:12 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "iOS and Android apps with user guide are sent to Nathalie. Also screenshot PDF is sent with user guide.",
+        "eventDateStamp": "Wed Mar 28 2018 18:54:18 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nathalie says that the feedback and empfehlungen text is still wrong. Sambhaji has asked Neville to make changes and resend the screenshot PDF.",
+        "eventDateStamp": "Thu Mar 29 2018 09:40:19 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Neville has sent the changes screenshot for Feedback and recommend.",
+        "eventDateStamp": "Mon Apr 02 2018 15:12:45 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Neville sends the screenshots PDF to Nathalie after making the changes.",
+        "eventDateStamp": "Tue Apr 03 2018 12:54:33 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "All the screenshots are now approved by Nathalie.",
+        "eventDateStamp": "Tue Apr 03 2018 15:16:23 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Neville has asked Nathalie whether to implement mentioned in PDF also.",
+        "eventDateStamp": "Wed Apr 11 2018 11:45:55 GMT 0530 (IST)"
     }
 ]

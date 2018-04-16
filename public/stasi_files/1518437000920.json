@@ -42,5 +42,65 @@
     {
         "eventText": "Both iOS and Android apps are uploaded on testflight.",
         "eventDateStamp": "Fri Mar 09 2018 10:40:03 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Programmers inform Dominik that direct external linking from the home screen icons will be a change request. This feature will not be integrated in first technical version.",
+        "eventDateStamp": "Mon Mar 12 2018 14:19:09 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sambhaji contacts Dominik that we haven't received invitation for iTunes Connect, Amazon S3 and Google Analytics.",
+        "eventDateStamp": "Mon Mar 12 2018 16:56:52 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shantanu has asked for email addresses of testers to speed up testing process.",
+        "eventDateStamp": "Tue Mar 13 2018 11:25:41 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "ASEcho app is sent on testflight to Frank, Dominik",
+        "eventDateStamp": "Wed Mar 21 2018 11:28:28 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Dominik says to take 3 April as deadline for now.",
+        "eventDateStamp": "Mon Mar 26 2018 10:19:38 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Change request received from Dominik",
+        "eventDateStamp": "Mon Mar 26 2018 11:16:58 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Dominik choose plan A to add all the future guidelines on home screen. Clicking on icon will lead to TOC with one entry and coming soon HTML page.",
+        "eventDateStamp": "Tue Mar 27 2018 16:23:01 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Mariona says that Cecilia will do the task of updating the POC.",
+        "eventDateStamp": "Thu Mar 29 2018 15:33:32 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Dominik says that, Client is okay on 22 May.",
+        "eventDateStamp": "Fri Mar 30 2018 09:36:24 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "The app to be updated is now confirmed by client and information forwarded by Dominik.",
+        "eventDateStamp": "Fri Mar 30 2018 09:41:53 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Mariona is asking for editorial input for making changes in the design draft till tomorrow morning.",
+        "eventDateStamp": "Mon Apr 02 2018 15:14:18 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Cecilia has updated and sent the updated DD on @3Apr.",
+        "eventDateStamp": "Thu Apr 05 2018 13:03:35 GMT 0530 (IST)"
+    },
+    {
+        "eventText": " The DD is revised by the production team and sent the feedback to Frank, Cecilia.",
+        "eventDateStamp": "Thu Apr 05 2018 13:03:39 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Cecilia makes the changes and resends the DD for review.",
+        "eventDateStamp": "Thu Apr 05 2018 17:42:11 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Shantanu sends the app requirements to Dominik.",
+        "eventDateStamp": "Wed Apr 11 2018 09:24:42 GMT 0530 (IST)"
     }
 ]

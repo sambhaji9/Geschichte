@@ -94,5 +94,13 @@
     {
         "eventText": "External testers are added and app is sent for testing. Shrinath and Piyush now informs Constance.",
         "eventDateStamp": "Wed Mar 07 2018 11:26:14 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Testflight version is sent to BBV and client for testing. Rahul sends one word file with comments.",
+        "eventDateStamp": "Wed Mar 14 2018 09:58:46 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sylvia confirms that the year can be removed from the EAU app splash screen. Some more additional tools and features may also come.",
+        "eventDateStamp": "Fri Apr 13 2018 18:26:38 GMT 0530 (IST)"
     }
 ]

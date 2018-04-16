@@ -103,5 +103,30 @@
         "appName": "ESMO Interactive guidelines",
         "appVersion": "2.0",
         "fileNumber": "1520313236089"
+    },
+    {
+        "appName": "Miscellaneous tasks",
+        "appVersion": "1.0",
+        "fileNumber": "1521009145639"
+    },
+    {
+        "appName": "Arzneimittel pocket, 2018",
+        "appVersion": "1.0",
+        "fileNumber": "1521710764049"
+    },
+    {
+        "appName": "COPD pocket",
+        "appVersion": "1.0",
+        "fileNumber": "1521717340592"
+    },
+    {
+        "appName": "Endocrine app",
+        "appVersion": "1.0",
+        "fileNumber": "1522645335720"
+    },
+    {
+        "appName": "ASCO app",
+        "appVersion": "1.0",
+        "fileNumber": "1522647700985"
     }
 ]
