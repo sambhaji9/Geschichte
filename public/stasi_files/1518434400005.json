@@ -90,5 +90,21 @@
     {
         "eventText": "Dominik has asked to add 5 criteria guidelines as content and not as links. Also, 2010 Rheumatoid Arthritis Classification Criteria we will delete the algo tool (because the score in the GL is better)",
         "eventDateStamp": "Mon Apr 16 2018 11:22:24 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Frank, Dominik are added as internal testers for ACR app.",
+        "eventDateStamp": "Wed Apr 25 2018 12:02:32 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "iOS app is sent to BBP for checking.",
+        "eventDateStamp": "Wed May 09 2018 11:45:12 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Android app is sent on Google Beta testing. Sambhaji informs all team mates.",
+        "eventDateStamp": "Thu May 10 2018 16:54:14 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "iOS and Android testers are now invited to test the final ACR app.",
+        "eventDateStamp": "Mon May 14 2018 10:16:39 GMT 0530 (IST)"
     }
 ]

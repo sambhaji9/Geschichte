@@ -14,98 +14,108 @@
 
     <script src="./stasi.js"></script>
     <link rel="stylesheet" type="text/css" href="./stasi.css">
-    <link rel="stylesheet" type="text/css" href="./lib/css/fontawesome-all.css" </head>
+    <link rel="stylesheet" type="text/css" href="./lib/css/fontawesome-all.css">
 
-    <body>
+    <!-- Adding favicon -->
+    <link href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAQAAABIkb+zAAABqklEQVR4Ae3YMWpUURTG8T9pZgho Cjth3IEEwUZXYqdbEDdwSkG7RBK0cBWmVGvBCKKjAe2zhBmE+eweVuKZeWfmBL//17/LDy6vuLh/
+        yDnnnHNuyhPOWaLiLfnIYyaM3C2+oi3uMzNG7IA52vLmXGek9jhDO9gZe4zSczTsAbVNeYeGPWOE HqFhT6nvGh/QsIds2P0//jtv2GMb3eDLcOaCe2zQjMvhU985YFvd5Odw7iUz1myfT6jBztlnrV6j
+        JnsF+e6iNltxh3QvUaOdkO5HK8AF6X61AixJp2YzwAADDDDAAAMMMMCAzQ+6+gADDDDAAAOCiqIS UE8IVAeoJwSqA9QTAtUB6gmB6gD1hEB1gHpCoDpAPSFQIaCcEKgUUEwIVAwoJQQqBxQSArUDJAiB
+        2gEShEDtAAlCoHaABCFQO0CCEKgdIEEI1AeQJwTqA8gTAvUB5AlxlV+ng/g/n9cNMMAAA5ao0Rak u2gFmJPupBXgiHSHrFCTrbgN+U7bAI5ZqynvUYO9ZQLrEk5Z7fjyHDNhow55wTcWO/hxzjn62913
+        zjnnnHO/Af0geORdrKQJAAAAAElFTkSuQmCC" rel="icon" type="image/x-icon" />
+</head>
 
-        <div class="top">
-            <div class="header-container">
-                <h3 id="header" class="header-text"></h3>
-                <h6 id="subHeader" class="sub-header-text"></h6>
-            </div>
-            <div class="button-container">
-                <input id="inputText" type="text" class="form-control input-text" placeholder="Enter text, click on Save button..." disabled/>
-                <button type="button" class="btn btn-outline-primary" id="addNewApp" data-toggle="modal" data-target="#addNewAppModal">
+
+<body>
+
+    <div class="top">
+        <div class="header-container">
+            <h3 id="header" class="header-text"></h3>
+            <h6 id="subHeader" class="sub-header-text"></h6>
+        </div>
+        <div class="button-container">
+            <input id="inputText" type="text" class="form-control input-text" placeholder="Enter text, click on Save button..." disabled/>
+            <button type="button" class="btn btn-outline-primary" id="addNewApp" data-toggle="modal" data-target="#addNewAppModal">
                 <i class="icon far fa-plus-square"></i>
                 Add New</button>
-                <button class="btn btn-outline-primary" id="save" disabled>
+            <button class="btn btn-outline-primary" id="save" disabled>
                 <i class="icon far fa-save"></i>Save</button>
-            </div>
-            <i class="far fa-question-circle about-icon" data-toggle="modal" data-target="#aboutModal"></i>
         </div>
+        <i class="far fa-question-circle about-icon" data-toggle="modal" data-target="#aboutModal"></i>
+    </div>
 
-        <div class="body-container">
-            <div class="left" id="leftPane"></div>
-            <div class="middle" id="middlePane">
-            </div>
+    <div class="body-container">
+        <div class="left" id="leftPane"></div>
+        <div class="middle" id="middlePane">
         </div>
+    </div>
 
-        <!-- Modal -->
-        <div class="modal fade" id="addNewAppModal" tabindex="-1" role="dialog" aria-labelledby="addNewAppModal" aria-hidden="true">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Add New App</h5>
-                    </div>
-                    <div class="modal-body">
-                        <div class="form-group row">
-                            <label for="appName" class="col-sm-4 col-form-label">App Name *</label>
-                            <div class="col-sm-8">
-                                <input type="text" id="inputAppName" class="form-control">
-                            </div>
+    <!-- Modal -->
+    <div class="modal fade" id="addNewAppModal" tabindex="-1" role="dialog" aria-labelledby="addNewAppModal" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Add New App</h5>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group row">
+                        <label for="appName" class="col-sm-4 col-form-label">App Name *</label>
+                        <div class="col-sm-8">
+                            <input type="text" id="inputAppName" class="form-control">
                         </div>
                     </div>
-                    <div class="modal-body">
-                        <div class="form-group row">
-                            <label for="appName" class="col-sm-4 col-form-label">App Version *</label>
-                            <div class="col-sm-8">
-                                <input type="text" id="inputAppVersion" class="form-control">
-                            </div>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group row">
+                        <label for="appName" class="col-sm-4 col-form-label">App Version *</label>
+                        <div class="col-sm-8">
+                            <input type="text" id="inputAppVersion" class="form-control">
                         </div>
                     </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary modal-button" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary modal-button" id="btnSaveApp">Save changes</button>
-                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary modal-button" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary modal-button" id="btnSaveApp">Save changes</button>
                 </div>
             </div>
-
         </div>
 
-        <div class="modal fade" id="alertModal" tabindex="-1" role="dialog" aria-labelledby="alert" aria-hidden="true">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h4 class="modal-title" id="exampleModalLabel">Alert</h4>
-                    </div>
-                    <div class="modal-body">
-                        <p>Enter some event, and then click on Save button</p>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary modal-button" data-dismiss="modal">OK</button>
-                    </div>
+    </div>
+
+    <div class="modal fade" id="alertModal" tabindex="-1" role="dialog" aria-labelledby="alert" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="exampleModalLabel">Alert</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Enter some event, and then click on Save button</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary modal-button" data-dismiss="modal">OK</button>
                 </div>
             </div>
-
         </div>
 
-        <div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="alert" aria-hidden="true">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h4 class="modal-title" id="exampleModalLabel">About</h4>
-                    </div>
-                    <div class="modal-body">
-                        <p>Powered by HTML5, CSS3, JavaScript, NodeJs, jQuery, Bootstrap, Sambhaji<br/>Version 1.0</p>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary modal-button" data-dismiss="modal">OK</button>
-                    </div>
+    </div>
+
+    <div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="alert" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="exampleModalLabel">About</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Powered by HTML5, CSS3, JavaScript, NodeJs, jQuery, Bootstrap, Sambhaji
+                        <br/>Version 1.0</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary modal-button" data-dismiss="modal">OK</button>
                 </div>
             </div>
-
         </div>
 
-    </body>
+    </div>
+
+</body>
 
 </html>

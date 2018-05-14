@@ -18,5 +18,13 @@
     {
         "eventText": "Dominik sends the changes in the AHA app data and asks to add in JIRA.",
         "eventDateStamp": "Thu Mar 08 2018 10:52:48 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Dominik has sent the changes to be done in the app. The server update is scheduled on August 3.",
+        "eventDateStamp": "Wed Apr 18 2018 13:16:38 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Server update for AHA/AIS guideline is online on Friday, 20April.",
+        "eventDateStamp": "Sat Apr 21 2018 14:09:20 GMT 0530 (IST)"
     }
 ]

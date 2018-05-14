@@ -206,5 +206,41 @@
     {
         "eventText": "Both iOS and Android Apps are sent on testflight for final approval from Sylvia and Nathalie.",
         "eventDateStamp": "Mon Apr 16 2018 19:00:10 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nilesh again sends email to Christophe for guidelines logs verification.",
+        "eventDateStamp": "Tue Apr 17 2018 16:37:30 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Sylvia has approved the ESC app and also sent the update text.",
+        "eventDateStamp": "Tue Apr 17 2018 16:39:20 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Guidelines logs are now approved by Christophe. The app can now be uploaded.",
+        "eventDateStamp": "Wed Apr 18 2018 17:29:39 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Nilesh contacts Ghislain to accept the Apple agreement.",
+        "eventDateStamp": "Wed Apr 25 2018 13:52:56 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Apple agreement is accepted by Ghislain now.",
+        "eventDateStamp": "Fri Apr 27 2018 09:23:28 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Android app is uploaded and is online now. Piyush has downloaded and tested the app.",
+        "eventDateStamp": "Fri Apr 27 2018 13:18:03 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "iOS app, version 3.8 is approved by Apple and released. Video manager icon on home screen is missing after the update. So, we decide to re-upload the iOS app again",
+        "eventDateStamp": "Mon April 30 2018 12:39:58 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "iOS app, version 3.9 is approved by Apple. Kiran, Nilesh is in contact to release the app today itself.",
+        "eventDateStamp": "Tue May 01 2018 09:46:36 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "iOS app, version 3.9 is now released worldwide.",
+        "eventDateStamp": "Wed May 02 2018 19:01:51 GMT 0530 (IST)"
     }
 ]
