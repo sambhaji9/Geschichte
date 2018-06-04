@@ -50,5 +50,17 @@
     {
         "eventText": "Dominik has given his feedback on iRAE guideline.",
         "eventDateStamp": "Mon May 14 2018 10:18:38 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Batch 5, 7 guidelines received from Dominik.",
+        "eventDateStamp": "Thu May 17 2018 15:34:22 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "ASCO app is sent on testflight. Frank has sent all the feedbacks on JIRA.",
+        "eventDateStamp": "Fri May 25 2018 09:33:06 GMT 0530 (IST)"
+    },
+    {
+        "eventText": ".ipa is sent to Frank and Dominik. Also screenshots are send.",
+        "eventDateStamp": "Wed May 30 2018 17:56:24 GMT 0530 (IST)"
     }
 ]

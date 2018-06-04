@@ -230,5 +230,13 @@
     {
         "eventText": "Both iOS and Android apps are released in Germany, Austria and Switzerland. Sandra has reported one issue in the BMI Rechner.",
         "eventDateStamp": "Mon May 07 2018 09:22:46 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Bettina reports the changes in one HTML page. Sambhaji made the change and sent the screenshot to Bettina for approvals.",
+        "eventDateStamp": "Thu May 17 2018 18:27:33 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Server update of one page is given in online app, 11.1.5.0",
+        "eventDateStamp": "Mon May 21 2018 10:10:51 GMT 0530 (IST)"
     }
 ]

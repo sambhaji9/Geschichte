@@ -1,5 +1,6 @@
 body {
     overflow-x: hidden;
+    font-family: roboto;
 }
 
 html,
@@ -65,7 +66,7 @@ body {
     float: right;
     margin: 10px;
     cursor: pointer;
-    font-size: 15px;
+    font-size: 13px;
     min-width: 100px;
 }
 
@@ -80,8 +81,8 @@ body {
     display: inline-block;
     margin-left: 50px;
     margin-top: 5px;
-    font-size: 15px;
-    font-family: elite;
+    font-size: 13px;
+    /* font-family: elite; */
     letter-spacing: 1px;
 }
 
@@ -95,7 +96,7 @@ body {
     padding: 10px;
     margin: 0;
     border-bottom: 1px solid lightskyblue;
-    font-size: 15px;
+    font-size: 13px;
 }
 
 .middle {
@@ -103,11 +104,11 @@ body {
 }
 
 .modal-button {
-    font-size: 15px;
+    font-size: 13px;
 }
 
 label {
-    font-size: 15px;
+    font-size: 13px;
 }
 
 input {
@@ -125,7 +126,7 @@ input {
 .header-text {
     text-align: right;
     margin-right: 10px;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .sub-header-text {
@@ -133,17 +134,16 @@ input {
     margin-right: 10px;
     justify-content: flex-end;
     font-style: italic;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 td {
-    font-family: elite;
-    font-size: 15px;
+    font-size: 13px;
 }
 
 @font-face {
-    font-family: elite;
-    src: url("./lib/SpecialElite.ttf");
+    font-family: roboto;
+    src: url("./lib/fonts/Roboto-Regular.ttf");
 }
 
 .modal-button {
@@ -151,8 +151,7 @@ td {
 }
 
 .search-box {
-    font-family: elite;
-    font-size: 15px;
+    font-size: 13px;
     letter-spacing: 1px;
 }
 

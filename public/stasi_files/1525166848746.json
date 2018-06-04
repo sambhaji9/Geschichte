@@ -2,5 +2,21 @@
     {
         "eventText": "Parag has approved Vinod to work on CatchMe changes. CatchMe is paying 10K for maintenance. ",
         "eventDateStamp": "Tue May 01 2018 15:01:16 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "iOS app is sent on testflight by Vinod.",
+        "eventDateStamp": "Thu May 17 2018 16:01:06 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Ghislain send the profiles and certificates",
+        "eventDateStamp": "Fri May 18 2018 12:13:12 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "Beta version of iOS app is released to external testers.",
+        "eventDateStamp": "Mon May 21 2018 10:05:10 GMT 0530 (IST)"
+    },
+    {
+        "eventText": "HCP App is uploaded on beta testing.",
+        "eventDateStamp": "Tue May 29 2018 10:25:00 GMT 0530 (IST)"
     }
 ]
